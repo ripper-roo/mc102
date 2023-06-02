@@ -1,4 +1,2 @@
-lista = [1,2,3,4,5,6]
-
-lista[::].reverse()
-print(lista)
+lista = ['a', 'b']
+print(ascii('a'))
