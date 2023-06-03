@@ -1,2 +1,2 @@
-lista = ['a', 'b']
-print(ascii('a'))
+lista = list(input())
+print(lista)
